@@ -17,7 +17,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nivedh-j&title=Profile%20Views)
 
