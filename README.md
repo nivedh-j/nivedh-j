@@ -37,7 +37,8 @@
 
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
+)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nivedh-j/nivedh-j/main/banner.svg" alt="Banner" />
