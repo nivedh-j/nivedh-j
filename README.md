@@ -23,6 +23,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github.com/YourUsername/YourUsername/blob/main/banner.png" alt="Banner" />
+</p>
+
+
 ---
 
 ## 
