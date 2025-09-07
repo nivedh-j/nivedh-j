@@ -18,6 +18,9 @@
 
 ## 📊 GitHub Stats
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j-views&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nivedh-j-views&label=Profile%20views&color=0e75b6&style=flat)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nivedh-j&title=Profile%20Views)
+
 
 
 ![Nivedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedh&show_icons=true&theme=radical)
