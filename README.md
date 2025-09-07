@@ -46,7 +46,7 @@
      padding: 20px; 
      display: inline-block;
 ">
-  <img src="success-factors.svg" 
+  <img src="archipics.gif" 
        alt="profile illustration" 
        width="500" />
 </div>
