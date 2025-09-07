@@ -37,9 +37,10 @@
 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
-)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nivedh-j/nivedh-j/main/banner.svg" alt="Banner" />
+
+  <img src="https://raw.githubusercontent.com/.../illustration.svg" width="400px" />
+
 </p>
 
