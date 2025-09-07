@@ -39,16 +39,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
 
 
-<div align="center" style="
-     background: #0d1117; 
-     border: 4px solid #4cafef; 
-     border-radius: 15px; 
-     padding: 40px; 
-     display: inline-block;
-">
-  <img src="archipics.gif" 
-       alt="profile illustration" 
-       width="500" />
-</div>
+ <img src="https://example.com/your-gif-url.gif" width="500" height="300" alt="Your GIF Description">
 
 
