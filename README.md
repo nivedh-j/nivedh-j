@@ -23,10 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/banner.png" alt="Banner" />
-</p>
-
 
 ---
 
@@ -38,4 +34,8 @@
 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nivedh-j/nivedh-j/main/banner.svg" alt="Banner" />
+</p>
 
