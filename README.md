@@ -46,7 +46,7 @@
      padding: 20px; 
      display: inline-block;
 ">
-  <img src="bull-market.svg" 
+  <img src="market.png" 
        alt="profile illustration" 
        width="500" />
 </div>
