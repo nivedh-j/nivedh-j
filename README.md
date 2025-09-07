@@ -40,14 +40,10 @@
 
 
 
-<p align="center">
+<p align="center" style="padding: 10px; border: 2px solid #444; border-radius: 12px; box-shadow: 3px 3px 10px rgba(0,0,0,0.5); display: inline-block;">
   <img src="success-factors.svg" 
        alt="profile illustration" 
-       width="500" 
-       style="border: 2px solid #555; border-radius: 10px;" />
+       width="500" />
 </p>
 
-
-
-</p>
 
