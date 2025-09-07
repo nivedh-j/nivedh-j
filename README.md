@@ -41,9 +41,9 @@
 
 <div align="center" style="
      background: #0d1117; 
-     border: 2px solid #4cafef; 
+     border: 4px solid #4cafef; 
      border-radius: 15px; 
-     padding: 20px; 
+     padding: 40px; 
      display: inline-block;
 ">
   <img src="archipics.gif" 
