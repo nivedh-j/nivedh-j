@@ -39,7 +39,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
 
 <p align="center">
-<img src="data-analysis.svg" width="400px" />
+<img src="sucess-factors.svg" width="400px" />
 
 
 </p>
