@@ -38,7 +38,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
 
-<div>
- <img src="archipics.gif" width="500" height="300" alt="Your GIF Description">
+<div class="content-box">
+  <img src="archipics.gif" alt="wrapped image" width="1219" height="505">
 </div>
 
