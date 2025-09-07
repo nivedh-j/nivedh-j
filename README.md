@@ -46,7 +46,7 @@
      padding: 20px; 
      display: inline-block;
 ">
-  <img src="success-factors.svg" 
+  <img src="bull-market.svg" 
        alt="profile illustration" 
        width="500" />
 </div>
