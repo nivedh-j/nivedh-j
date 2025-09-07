@@ -39,11 +39,16 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
 
 
-
-<p align="center" style="padding: 10px; border: 2px solid #444; border-radius: 12px; box-shadow: 3px 3px 10px rgba(0,0,0,0.5); display: inline-block;">
+<div align="center" style="
+     background: #0d1117; 
+     border: 2px solid #4cafef; 
+     border-radius: 15px; 
+     padding: 20px; 
+     display: inline-block;
+">
   <img src="success-factors.svg" 
        alt="profile illustration" 
        width="500" />
-</p>
+</div>
 
 
