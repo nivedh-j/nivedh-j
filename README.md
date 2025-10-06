@@ -38,7 +38,7 @@ I build data pipelines, small web pages, and security labs — I share runnable 
 
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202024&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202025&color=blue&style=flat)
 
 <div class="content-box">
   <img src="archipics.gif" alt="wrapped image" width="1219" height="505">
