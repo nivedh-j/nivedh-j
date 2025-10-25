@@ -38,6 +38,8 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ![Nivedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=tokyonight)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ---
 
 ## 🚀 Featured Projects
