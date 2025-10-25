@@ -35,7 +35,8 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202025&color=blue&style=flat)
 
-![Nivedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
+![Nivedh J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight&count_private=true)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=tokyonight)
