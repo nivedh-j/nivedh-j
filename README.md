@@ -6,7 +6,7 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 --- 
 
 ## 🚀 About Me
-- 🎓 BCA Graduate specializing in **Data Science**
+- 🎓 BCA Graduate specializing in **Data Science**  
 - 💻 Experienced with **MySQL**, **Apache Spark**, and **web development**
 - 🧠 Exploring **Bug Bounty**, **Android App Pentesting**, and **Cybersecurity labs**
 - ✨ Currently studying **Mentalism** — observation, suggestion, and psychological performance
