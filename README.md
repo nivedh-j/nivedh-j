@@ -88,7 +88,7 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**kafka-gitnivedhj-producer-consumer-demo**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer-demo) | Simple Kafka CLI example showing producer–consumer message flow using topic `gitnivedhj-topic`. | Apache Kafka |
+| [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example showing producer–consumer message flow using topic `gitnivedhj-topic`. | Apache Kafka |
 | [**BigData-WordCount**](https://github.com/nivedh-j/BigData-WordCount) | WordCount example using Hadoop MapReduce — core big data concept demonstration. | Hadoop, Java |
 | [**ebanking-customer-sat**](https://github.com/nivedh-j/ebanking-customer-sat) | Data analysis of customer satisfaction in e-banking — includes charts and visualizations. | Data Science |
 | [**ethical-wifi-lab**](https://github.com/nivedh-j/ethical-wifi-lab) | Learning scripts and documentation for wireless network security (for labs only). | Ethical Hacking |
