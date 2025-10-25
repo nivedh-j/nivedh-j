@@ -46,8 +46,8 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 |----------|--------------|------|
 | [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example showing producer–consumer message flow using topic `gitnivedhj-topic`. | Apache Kafka |
 | [**BigData-WordCount**](https://github.com/nivedh-j/BigData-WordCount) | WordCount example using Hadoop MapReduce — core big data concept demonstration. | Hadoop, Java |
-| [**ebanking-customer-sat**](https://github.com/nivedh-j/ebanking-customer-sat) | Data analysis of customer satisfaction in e-banking — includes charts and visualizations. | Data Science |
-| [**ethical-wifi-lab**](https://github.com/nivedh-j/ethical-wifi-lab) | Learning scripts and documentation for wireless network security (for labs only). | Ethical Hacking |
+| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Data analysis of customer satisfaction in e-banking — includes charts and visualizations. | Data Science |
+| [**ethical-hacking-password-crack**](https://github.com/nivedh-j/ethical-hacking-password-cracking) | Learning scripts and documentation for wireless network security (for labs only). | Ethical Hacking |
 
 > 📌 Check **Pinned Repos** on my profile for the latest demos, tutorials, and complete documentation.
 
