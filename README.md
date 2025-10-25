@@ -3,7 +3,7 @@
 🎯 **Data Science Student | Web Developer | Bug Bounty & Android Pentesting Learner | Mentalism Enthusiast**  
 I build **data pipelines**, **mini web apps**, and **security labs** — and share them with runnable examples, detailed READMEs, and practical notes.
 
----
+--- 
 
 ## 🚀 About Me
 - 🎓 BCA Graduate specializing in **Data Science**
