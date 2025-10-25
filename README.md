@@ -45,7 +45,7 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example demonstrating producer–consumer message flow using topic `gitnivedhj-topic`. | Python, kafka-python, Apache Kafka |
-| [**Spark-WordCount**](https://github.com/nivedh-j/Spark-WordCount) | WordCount example using Hadoop MapReduce — a core big data concept demonstration. | Spark, Scala |
+| [**Spark-WordCount**](https://github.com/nivedh-j/Spark-WordCount) | WordCount example using Spark — a core big data concept demonstration. | Spark, Scala |
 | [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis of financial risk / customer analysis, includes charts and visualizations. | Python |
 | [**ethical-hacking-password-cracking**](https://github.com/nivedh-j/ethical-hacking-password-cracking) | Educational scripts and documentation for password-cracking techniques used in lab environments (for learning/authorized testing only). | Security labs, Hash tools (educational) |
 
