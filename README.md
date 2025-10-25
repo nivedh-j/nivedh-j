@@ -44,10 +44,11 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example showing producer–consumer message flow using topic `gitnivedhj-topic`. | Apache Kafka |
-| [**BigData-WordCount**](https://github.com/nivedh-j/BigData-WordCount) | WordCount example using Hadoop MapReduce — core big data concept demonstration. | Hadoop, Java |
-| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Data analysis of customer satisfaction in e-banking — includes charts and visualizations. | Data Science |
-| [**ethical-hacking-password-crack**](https://github.com/nivedh-j/ethical-hacking-password-cracking) | Learning scripts and documentation for wireless network security (for labs only). | Ethical Hacking |
+| [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example demonstrating producer–consumer message flow using topic `gitnivedhj-topic`. | Python, kafka-python, Apache Kafka |
+| [**Spark-WordCount**](https://github.com/nivedh-j/Spark-WordCount) | WordCount example using Hadoop MapReduce — a core big data concept demonstration. | Spark, Scala |
+| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis of financial risk / customer analysis, includes charts and visualizations. | Python |
+| [**ethical-hacking-password-cracking**](https://github.com/nivedh-j/ethical-hacking-password-cracking) | Educational scripts and documentation for password-cracking techniques used in lab environments (for learning/authorized testing only). | Security labs, Hash tools (educational) |
+
 
 > 📌 Check **Pinned Repos** on my profile for the latest demos, tutorials, and complete documentation.
 
