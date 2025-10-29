@@ -77,4 +77,3 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 
 ---
 
-![Profile Visual](archipics.gif)
