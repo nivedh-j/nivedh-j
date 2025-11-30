@@ -37,9 +37,11 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 
 
 
-![Nivedh J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivedh-J&show_icons=true&theme=tokyonight)
+![Nivedh J's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nivedh-J&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedh-J&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nivedh-J&layout=compact&theme=tokyonight)
+
 
 ---
 
