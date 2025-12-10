@@ -17,11 +17,12 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: nivedh-j
-          outputs: dist/snake.svg
+   - name: Generate snake SVG
+  uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: nivedh-j
+    palette: "#000000,#00FF00,#15803d,#22c55e,#4ade80"
+    outputs: dist/snake.svg
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
