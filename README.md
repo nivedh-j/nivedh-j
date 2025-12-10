@@ -34,6 +34,12 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ## 📊 GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=nivedh-j&label=Profile%20views%20since%20Sept%202025&color=blue&style=flat)
+<!-- show the light snake -->
+![GitHub Contribution Snake](./dist/github-contribution-grid-snake.svg)
+
+<!-- or explicit img tag if you prefer -->
+<img src="./dist/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
 
 ---
 
