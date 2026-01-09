@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nivedh J
 
-🎯 **Data Science Student | Web Developer | Bug Bounty & Android Pentesting Learner | Mentalism Enthusiast**  
+🎯 **Aspiring Data Scientist / Data Engineer (Azure) | Spark & Kafka | Security Background**  
 I build **data pipelines**, **mini web apps**, and **security labs** — and share them with runnable examples, detailed READMEs, and practical notes.
 
 --- 
@@ -9,7 +9,6 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 - 🎓 BCA Graduate specializing in **Data Science**  
 - 💻 Experienced with **MySQL**, **Apache Spark**, and **web development**
 - 🧠 Exploring **Bug Bounty**, **Android App Pentesting**, and **Cybersecurity labs**
-- ✨ Currently studying **Mentalism** — observation, suggestion, and psychological performance
 - 🌍 Based in India | Passionate about **AI, automation, and human behavior**
 
 ---
@@ -40,12 +39,16 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ---
 
 ## 🚀 Featured Projects
+
 | Project | Description | Tech |
-|----------|--------------|------|
-| [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Simple Kafka CLI example demonstrating producer–consumer message flow using topic `gitnivedhj-topic`. | Python, kafka-python, Apache Kafka |
-| [**Spark-WordCount**](https://github.com/nivedh-j/Spark-WordCount) | WordCount example using Spark — a core big data concept demonstration. | Spark, Scala |
-| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis of financial risk / customer analysis, includes charts and visualizations. | Python |
-| [**ethical-hacking-password-cracking**](https://github.com/nivedh-j/ethical-hacking-password-cracking) | Educational scripts and documentation for password-cracking techniques used in lab environments (for learning/authorized testing only). | Security labs, Hash tools (educational) |
+|--------|-------------|------|
+| [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Demonstrates Apache Kafka producer–consumer workflow, message publishing, and topic-based data streaming using CLI and Python clients. | Python, kafka-python, Apache Kafka |
+| [**spark-kafka-streaming**](https://github.com/nivedh-j/spark-kafka-streaming) | Streaming data pipeline using Apache Spark and Kafka to process real-time messages and perform basic transformations. | Python, Spark, Kafka |
+| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis project focused on customer financial risk, covering data cleaning, visual analysis, and insight generation (learning project). | Python, Pandas, Matplotlib |
+
+### 🔐 Security Background (Supplementary)
+- Hands-on experience with web and network security labs, focusing on vulnerability analysis and defensive understanding.
+
 
 
 > 📌 Check **Pinned Repos** on my profile for the latest demos, tutorials, and complete documentation.
@@ -53,7 +56,7 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ---
 
 ## 🧠 Keywords for Discovery
-> **Data Science**, **Apache Kafka**, **Producer Consumer Example**, **Spark**, **MySQL**, **ETL**, **Bug Bounty**, **Android Pentesting**, **Framer Portfolio**, **GitHub Projects**, **Hadoop**, **Cybersecurity Labs**, **Mentalism**, **Mind Reading**, **by Nivedh J**
+> **Data Science**, **Apache Kafka**, **Producer Consumer Example**, **Spark**, **MySQL**, **ETL**, **Bug Bounty**, **Android Pentesting**, **Framer Portfolio**, **GitHub Projects**, **Hadoop**, **Cybersecurity Labs**, **by Nivedh J**
 
 *(These keywords improve GitHub & ChatGPT search visibility for my work and learning focus.)*
 
