@@ -44,7 +44,7 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 |--------|-------------|------|
 | [**kafka-gitnivedhj-producer-consumer**](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer) | Demonstrates Apache Kafka producer–consumer workflow, message publishing, and topic-based data streaming using CLI and Python clients. | Python, kafka-python, Apache Kafka |
 | [**spark-kafka-streaming**](https://github.com/nivedh-j/spark-kafka-streaming) | Streaming data pipeline using Apache Spark and Kafka to process real-time messages and perform basic transformations. | Python, Spark, Kafka |
-| [**financial-risk-dataset**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis project focused on customer financial risk, covering data cleaning, visual analysis, and insight generation (learning project). | Python, Pandas, Matplotlib |
+| [**EDA-Learning-Project**](https://github.com/nivedh-j/financial-risk-dataset) | Exploratory data analysis project focused on customer financial risk, covering data cleaning, visual analysis, and insight generation (learning project). | Python, Pandas, Matplotlib |
 
 ### 🔐 Security Background (Supplementary)
 - Hands-on experience with web and network security labs, focusing on vulnerability analysis and defensive understanding.
