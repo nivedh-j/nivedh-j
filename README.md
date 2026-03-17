@@ -14,9 +14,9 @@ I build **data pipelines**, **mini web apps**, and **security labs** — and sha
 ---
 
 ## 🛠️ Tech & Tools
-**Languages:** Python (learning), SQL, HTML, CSS, Java  
+**Languages:** Python (Pandas,numpy), SQL, HTML, CSS, Java  
 **Data Tools:** Apache Spark, Hadoop (MapReduce), MySQL  
-**Dev Tools:** VS Code, GitHub, Framer, Kali Linux (lab use)  
+**Dev Tools:** Jupyter Notebook,VS Code, GitHub, Framer, Kali Linux (lab use)  
 **Topics:** Data cleaning, ETL, web development, vulnerability testing (safe lab)
 
 ---
