@@ -61,15 +61,6 @@ BCA graduate from Mahatma Gandhi University (2025), currently deepening my data 
 
 ---
 
-### ⚡ Apache Kafka Producer-Consumer
-> Real-time message streaming demo implementing producer-consumer architecture using Kafka command-line tools on Windows.
-
-**Tools:** Apache Kafka · Command Line · Python  
-⭐ 3 stars · 🍴 1 fork  
-🔗 [View Repository](https://github.com/nivedh-j/kafka-gitnivedhj-producer-consumer)
-
----
-
 ### ⚖️ Legal Guru
 > Full-stack legal information website with a clean, accessible UI and SQLite3 database backend.
 
@@ -102,8 +93,7 @@ BCA graduate from Mahatma Gandhi University (2025), currently deepening my data 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
