@@ -9,6 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-nivedh444@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:nivedh444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nivedh--j-181717?style=flat-square&logo=github)](https://github.com/nivedh-j)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nivedh-j&color=blue&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
