@@ -29,6 +29,14 @@ BCA graduate from Mahatma Gandhi University (2025), currently deepening my data 
 
 ## Featured Projects
 
+### 📊 Sales Analytics Power BI Dashboard
+> Multi-page interactive Power BI report covering end-to-end sales performance — from high-level revenue summaries to granular product, customer, and team-level breakdowns.
+
+**Tools:** PowerBI · DAX · Data Modeling · Sale Analytics  
+🔗 [View Repository](https://github.com/nivedh-j/Sales-Analytics-Power-BI-Dashboard)
+
+---
+
 ### 📺 Netflix EDA
 > Exploratory analysis of 8,800+ Netflix titles to uncover content trends, genre distribution, and year-wise growth patterns.
 
@@ -45,13 +53,6 @@ BCA graduate from Mahatma Gandhi University (2025), currently deepening my data 
 
 ---
 
-### 🦠 COVID-19 India Dashboard
-> State-wise COVID-19 tracking dashboard with interactive filters and trend visualization built for real-time data monitoring.
-
-**Tools:** HTML · CSS · JavaScript · Data Visualization  
-🔗 [View Repository](https://github.com/nivedh-j/india_dashboardCovid-19)
-
----
 
 ### 🛒 Amazon Mobile Scraper
 > Python web scraper to extract and structure mobile product listings from Amazon for data collection and analysis.
