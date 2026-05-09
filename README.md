@@ -17,11 +17,15 @@
 
 ## About Me
 
-BCA graduate (MGU, 2025) building data pipelines end-to-end — from messy CSVs to trained models to dashboards that make insights impossible to ignore.
-📊 EDA · Data cleaning · Visualization · ML (scikit-learn, Random Forest, GridSearchCV)
-🐍 Python · Pandas · NumPy · Seaborn · Plotly · Power BI · MySQL
-🌐 Portfolio: nivedh-j.github.io
-📍 Palakkad, Kerala · Open to data analyst & data science internships
+BCA graduate (MGU, 2025) building data pipelines end-to-end —
+from messy CSVs to trained models to dashboards that make insights impossible to ignore.
+
+- 📊 **Focus:** EDA · Data Cleaning · Visualization · ML
+- 🐍 **Stack:** Python · Pandas · NumPy · Scikit-learn · Seaborn · Plotly · Power BI · MySQL
+- 🔭 **Exploring:** Flask API deployment · PyTorch · Deep Learning
+- 📍 Palakkad, Kerala · **Open to data analyst & data science internships**
+- 🌐 Portfolio: nivedh-j.github.io
+
 ---
 
 ## Featured Projects
