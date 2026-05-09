@@ -108,13 +108,13 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Nivedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Nivedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
