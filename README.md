@@ -112,12 +112,16 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 
 <div align="center">
 
-![Nivedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nivedh-j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh-j&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nivedh-j&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 ---
 
 ## Currently Learning
