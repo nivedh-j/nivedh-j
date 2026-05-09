@@ -4,7 +4,7 @@
 
 **Data Analyst · Python · SQL · EDA · Data Visualization**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nivedhj.framer.website-blue?style=flat-square&logo=framer)](https://nivedhj.framer.website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nivedhj.framer.website-blue?style=flat-square&logo=framer)](https://nivedh-j.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nivedh_J-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nivedhj)
 [![Email](https://img.shields.io/badge/Email-nivedh444@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:nivedh444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nivedh--j-181717?style=flat-square&logo=github)](https://github.com/nivedh-j)
@@ -29,6 +29,15 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 ---
 
 ## Featured Projects
+
+---
+### 🏠 California Housing Price Prediction
+> End-to-end ML pipeline predicting house prices using the California Housing dataset. Compared Linear Regression, Decision Tree, and Random Forest — achieved best RMSE of **47,873** with Random Forest (n_estimators=30, max_features=8) tuned via GridSearchCV.
+
+**Tools:** Python · Scikit-learn · Pandas · NumPy · Seaborn · GridSearchCV · Random Forest  
+🔗 [View Repository](https://github.com/nivedh-j/California-Housing-Price-Prediction)
+
+---
 
 ### 📊 Sales Analytics Power BI Dashboard
 > Multi-page interactive Power BI report covering end-to-end sales performance — from high-level revenue summaries to granular product, customer, and team-level breakdowns.
