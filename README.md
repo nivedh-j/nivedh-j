@@ -17,14 +17,11 @@
 
 ## About Me
 
-BCA graduate from Mahatma Gandhi University (2025), currently deepening my data science skills through hands-on, project-driven learning. I work with real-world datasets to find patterns, build visual stories, and communicate insights clearly.
-
-- 📊 Focused on **Exploratory Data Analysis (EDA)**, data cleaning, and visualization
-- 🐍 Primary stack: **Python · Pandas · NumPy · Seaborn · Plotly · MySQL**
-- 🌐 Portfolio: [nivedhj.framer.website](https://nivedhj.framer.website)
-- 📍 Palakkad, Kerala, India
-- 📬 Open to **data analyst internships and entry-level roles**
-
+BCA graduate (MGU, 2025) building data pipelines end-to-end — from messy CSVs to trained models to dashboards that make insights impossible to ignore.
+📊 EDA · Data cleaning · Visualization · ML (scikit-learn, Random Forest, GridSearchCV)
+🐍 Python · Pandas · NumPy · Seaborn · Plotly · Power BI · MySQL
+🌐 Portfolio: nivedh-j.github.io
+📍 Palakkad, Kerala · Open to data analyst & data science internships
 ---
 
 ## Featured Projects
