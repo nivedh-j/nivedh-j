@@ -132,7 +132,7 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 
 I'm always open to connecting with fellow data enthusiasts, collaborating on interesting datasets, or discussing entry-level analyst opportunities.
 
-📬 **nivedh444@gmail.com** · 🌐 **[nivedhj.framer.website](https://nivedhj.framer.website)**
+📬 **nivedh444@gmail.com** · 🌐 **[nivedhj.framer.website](https://nivedh-j.github.io/)**
 
 ---
 
