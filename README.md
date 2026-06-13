@@ -17,67 +17,63 @@
 
 ## About Me
 
-BCA graduate (MGU, 2025) building data pipelines end-to-end —
-from messy CSVs to trained models to dashboards that make insights impossible to ignore.
+BCA graduate (MGU, 2025) building data pipelines end-to-end — from messy CSVs to trained models to dashboards that make insights impossible to ignore.
 
 - 📊 **Focus:** EDA · Data Cleaning · Visualization · ML
-- 🐍 **Stack:** Python · Pandas · NumPy · Scikit-learn · Seaborn · Plotly · Power BI · MySQL
-- 🔭 **Exploring:** Flask API deployment · PyTorch · Deep Learning
+- 🐍 **Stack:** Python · Pandas · NumPy · Scikit-learn · Seaborn · Plotly · Power BI · MySQL · Streamlit
+- 🔭 **Exploring:** Advanced ensemble techniques · model deployment frameworks · cross-validation matrix architectures.
 - 📍 Palakkad, Kerala · **Open to data analyst & data science internships**
-- 🌐 Portfolio: nivedh-j.github.io
+- 🌐 Portfolio: [nivedh-j.github.io](https://nivedh-j.github.io/)
 
 ---
 
 ## Featured Projects
 
----
-### 🏠 California Housing Price Prediction
-> End-to-end ML pipeline predicting house prices using the California Housing dataset. Compared Linear Regression, Decision Tree, and Random Forest — achieved best RMSE of **47,873** with Random Forest (n_estimators=30, max_features=8) tuned via GridSearchCV.
+### 🌧️ Rainfall Prediction (970k+ Weather Records)
+> Large-scale weather analytics and rainfall prediction project using 970,000+ weather observations across India. Includes data cleaning, EDA, feature engineering, machine learning, and climate pattern analysis.
 
-**Tools:** Python · Scikit-learn · Pandas · NumPy · Seaborn · GridSearchCV · Random Forest  
-🔗 [View Repository](https://github.com/nivedh-j/California-Housing-Price-Prediction)
+**Tools:** Python · Pandas · Machine Learning · EDA  
+🔗 [View Repository](https://github.com/nivedh-j/rainfall-prediction-970k-weather-records)
+
+---
+
+### 🩺 Cancer Risk Prediction App
+> End-to-end cancer risk prediction web app using Machine Learning and Streamlit. Predicts low/high cancer risk based on patient lifestyle and clinical inputs.
+
+**Tools:** Python · Scikit-learn · Streamlit · Machine Learning  
+🔗 [View Repository](https://github.com/nivedh-j/cancer-risk-prediction)
 
 ---
 
 ### 📊 Sales Analytics Power BI Dashboard
 > Multi-page interactive Power BI report covering end-to-end sales performance — from high-level revenue summaries to granular product, customer, and team-level breakdowns.
 
-**Tools:** PowerBI · DAX · Data Modeling · Sale Analytics  
+**Tools:** Power BI · DAX · Data Modeling · Sales Analytics  
 🔗 [View Repository](https://github.com/nivedh-j/Sales-Analytics-Power-BI-Dashboard)
 
 ---
 
+### 💊 Drug Classification ML
+> Predicts suitable drug type for patients using clinical features. Built and evaluated multiple classification models. Achieved an accuracy of **85%**.
+
+**Tools:** Python · Logistic Regression · SVM · Naive Bayes · Scikit-learn  
+🔗 [View Repository](https://github.com/nivedh-j/drug-classification-ml)
+
+---
+
+### 🏠 California Housing Price Prediction
+> End-to-end ML pipeline predicting house prices using the California Housing dataset. Compared Linear Regression, Decision Tree, and Random Forest — achieved best RMSE of **47,873** with Random Forest (n_estimators=30, max_features=8) tuned via GridSearchCV.
+
+**Tools:** Python · Scikit-learn · Pandas · Seaborn · GridSearchCV · Random Forest  
+🔗 [View Repository](https://github.com/nivedh-j/california-house-price-prediction)
+
+---
+
 ### 📺 Netflix EDA
-> Exploratory analysis of 8,800+ Netflix titles to uncover content trends, genre distribution, and year-wise growth patterns.
+> Exploratory analysis of Netflix Movies and TV Shows dataset to uncover content trends, genre distribution, and year-wise growth patterns using Python, Pandas, Seaborn, and Plotly.
 
 **Tools:** Python · Pandas · Seaborn · Plotly  
 🔗 [View Repository](https://github.com/nivedh-j/Netflix-eda)
-
----
-
-### 🎬 IMDB Top 1000 Analysis
-> Analyzed 1,000 top-rated films to identify genre-rating correlations and decade-wise viewing trends using interactive visualizations.
-
-**Tools:** Python · Pandas · Seaborn · Plotly · Jupyter Notebook  
-🔗 [View Repository](https://github.com/nivedh-j/imdb-top-1000-analysis)
-
----
-
-
-### 🛒 Amazon Mobile Scraper
-> Python web scraper to extract and structure mobile product listings from Amazon for data collection and analysis.
-
-**Tools:** Python · BeautifulSoup · Requests  
-🔗 [View Repository](https://github.com/nivedh-j/Amazon-Mobile-Scraping)
-
----
-
-### ⚖️ Legal Guru
-> Full-stack legal information website with a clean, accessible UI and SQLite3 database backend.
-
-**Tools:** HTML · CSS · SQLite3  
-⭐ 2 stars  
-🔗 [View Repository](https://github.com/nivedh-j/Legal-Guru)
 
 ---
 
@@ -90,26 +86,26 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Data Analysis & Visualization**
+**Data Analysis, Visualization & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square)
 
 **Tools & Platforms**
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
 ## 📈 GitHub Stats
-
 
 <div align="center">
 
@@ -132,7 +128,7 @@ from messy CSVs to trained models to dashboards that make insights impossible to
 
 I'm always open to connecting with fellow data enthusiasts, collaborating on interesting datasets, or discussing entry-level analyst opportunities.
 
-📬 **nivedh444@gmail.com** · 🌐 **[nivedh-j.github.io/](https://nivedh-j.github.io/)**
+📬 **nivedh444@gmail.com** · 🌐 **[nivedh-j.github.io](https://nivedh-j.github.io/)**
 
 ---
 
