@@ -4,7 +4,7 @@
 
 **Data Analyst · Python · SQL · EDA · Data Visualization**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nivedhj.framer.website-blue?style=flat-square&logo=framer)](https://nivedh-j.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=framer)](https://nivedh-j.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nivedh_J-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nivedhj)
 [![Email](https://img.shields.io/badge/Email-nivedh444@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:nivedh444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nivedh--j-181717?style=flat-square&logo=github)](https://github.com/nivedh-j)
