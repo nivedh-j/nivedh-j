@@ -29,6 +29,14 @@ BCA graduate (MGU, 2025) building data pipelines end-to-end — from messy CSVs 
 
 ## Featured Projects
 
+### 🗳️ Kerala Election Analytics Dashboard
+
+> Interactive Power BI dashboard analyzing Kerala Election results through district-level drill-downs, alliance vote share analysis, constituency performance, winning candidates, and party-wise election insights. Built using Power BI, DAX, and data modeling techniques to transform election data into actionable visual intelligence.
+
+**Tools:** Power BI · DAX · Data Modeling · Data Visualization · Business Intelligence
+
+🔗 [View Repository](https://github.com/nivedh-j/kerala-election-analysis-powerbi)
+
 ### 🌧️ Rainfall Prediction (970k+ Weather Records)
 > Large-scale weather analytics and rainfall prediction project using 970,000+ weather observations across India. Includes data cleaning, EDA, feature engineering, machine learning, and climate pattern analysis.
 
